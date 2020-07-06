@@ -1,5 +1,7 @@
 # 06-02 Iteration in JavaScript Epic Mode
 
+### My solution:
+
 ```Javascript
 
 const listOfNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
@@ -92,10 +94,6 @@ After completing this assignment, you should be able to:
 8. Open `src/functions.test.js` and work on functions until tests pass.
 9. Commit and push your work to GitHub.
 10. Turn in the URL to your GitHub repo.
-
-## Explorer Mode
-
-- All tests passing
 
 ## Epic Mode
 
