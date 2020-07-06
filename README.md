@@ -1,4 +1,4 @@
-# 06-02 Iteration in JavaScript
+# 06-02 Iteration in JavaScript Epic Mode
 
 ```Javascript
 
